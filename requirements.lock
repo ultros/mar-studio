@@ -1,0 +1,7 @@
+# MAR Studio runtime lock; CPython 3.12+ on Windows x64 / Linux x64.
+PySide6-Essentials==6.10.2
+shiboken6==6.10.2
+reportlab==4.4.10
+pillow==13.0.0
+charset-normalizer==3.5.2
+
