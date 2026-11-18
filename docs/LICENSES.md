@@ -1,6 +1,8 @@
 # Asset and dependency inventory
 
-The [MIT License](../LICENSE) covers the original project software. The original README and documentation prose is also offered under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Credit MAR Studio contributors when using that option.
+The [MIT License](../LICENSE) covers the original project software. Retain the copyright notice naming `ultros` and MAR Studio contributors and the MIT permission notice in copies or substantial portions of the software.
+
+The original README and documentation prose is also offered under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/). Credit `ultros` and MAR Studio contributors, link to the license, and indicate any changes when using that option.
 
 | Material | Origin and terms |
 | --- | --- |
