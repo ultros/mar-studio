@@ -2,6 +2,8 @@
 
 MAR Studio is an offline desktop editor for infographics, posters, and annotated diagrams. Build a design on a layered canvas, retouch PNGs in place, and save an editable project with a replayable record of its changes and sources.
 
+A project from [BioThreat Corporation](https://biothreat.com), doing business as [Novus Mercatura Trade Company](https://novusmercatura.com). Explore the company's [Services and Software](https://novusmercatura.com/services-and-software/) page.
+
 ![MAR Studio showing a synthetic demo poster, layer inspector, and edit timeline](docs/studio.png)
 
 ## What you can do
